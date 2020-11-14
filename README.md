@@ -8,17 +8,18 @@
  4. show list of name of books
  5. to search book by it,s name
  6. to exit from code with feedback
- 
+ ___________________________
  ## what is code include?
- -----------------------------------------
  it inclue many function to every choice like **show number()**
- ------------------------------------------
+
  it take variables in **arrays** to save values
  
  
- ##refrences
+ ## refrences
  [javatpoint](https://www.javatpoint.com/c-programming-language-tutorial)
- [programiz](https://www.programiz.com/c-programming)
+
+
+[programiz](https://www.programiz.com/c-programming)
 
 
  
